@@ -41,16 +41,18 @@ The repository is structured into different labs, each covering specific algorit
   - [QuickSort_vs_MergeSort_Graph.pdf](#lab-4-quicksort_vs_mergesort_graphpdf): Comparative graph analyzing quick sort versus merge sort performance.
 
 ### Lab 5
-- **Stack Operations**
-  - [StackOperations.c](#lab-5-stackoperationsc): Implements stack operations including push, pop, and display.
-  - [StackOperations.exe](#lab-5-stackoperationsex): Executable file for Windows.
-  - [StackOperationsGraph.pdf](#lab-5-stackoperationsgraphpdf): Performance graph illustrating stack operations execution time.
+- **Prim's Algorithm**
+  - [Prims.c](#lab-5-primsc): Implements Prim's algorithm for finding the Minimum Spanning Tree (MST) in a weighted graph.
+  - [Prims.exe](#lab-5-primsex): Executable file for Windows.
+  - [PrimsGraph.pdf](#lab-5-primsgraphpdf): Performance graph illustrating the execution time of Prim's algorithm.
+  - [PrimsOutput.png](#lab-5-primsoutputpng): Sample output screenshot showing the MST.
 
 ### Lab 6
-- **Queue Handling**
-  - [QueueHandling.c](#lab-6-queuehandlingc): Implements queue operations including enqueue, dequeue, and display.
-  - [QueueHandling.exe](#lab-6-queuehandlingexe): Executable file for Windows.
-  - [QueueHandlingGraph.pdf](#lab-6-queuehandlinggraphpdf): Performance graph illustrating queue operations execution time.
+- **Knapsack Problem**
+  - [Knapsack.c](#lab-6-knapsackc): Implements the 0/1 Knapsack problem using dynamic programming.
+  - [Knapsack.exe](#lab-6-knapsackexe): Executable file for Windows.
+  - [KnapsackGraph.pdf](#lab-6-knapsackgraphpdf): Performance graph illustrating the execution time for different input sizes in the Knapsack problem.
+  - [KnapsackOutput.png](#lab-6-knapsackoutputpng): Sample output screenshot of the Knapsack solution.
 
 ---
 
@@ -97,35 +99,7 @@ The repository is structured into different labs, each covering specific algorit
 - Executable file for Windows.
 
 #### `QuickSortGraph.pdf`
-- Performance graph illustrating quick sort execution time.
+- Performance graph illustrating quick
 
-#### `QuickSort_vs_MergeSort_Graph.pdf`
-- Comparative graph analyzing quick sort versus merge sort performance.
-
----
-
-### Lab 5 - Stack Operations
-
-#### `StackOperations.c`
-- Implements stack operations including push, pop, and display.
-
-#### `StackOperations.exe`
-- Executable file for Windows.
-
-#### `StackOperationsGraph.pdf`
-- Performance graph illustrating stack operations execution time.
-
----
-
-### Lab 6 - Queue Handling
-
-#### `QueueHandling.c`
-- Implements queue operations including enqueue, dequeue, and display.
-
-#### `QueueHandling.exe`
-- Executable file for Windows.
-
-#### `QueueHandlingGraph.pdf`
-- Performance graph illustrating
 
 
