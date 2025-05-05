@@ -36,22 +36,16 @@ The repository is structured into different labs, each covering specific algorit
 ### Lab 4
 - **Quick Sort Implementation**
   - [QuickSort.c](#lab-4-quicksortc): Implements quick sort using the divide and conquer method.
-  - [QuickSort.exe](#lab-4-quicksortexe): Executable file for Windows.
-  - [QuickSortGraph.pdf](#lab-4-quicksortgraphpdf): Performance graph illustrating quick sort execution time.
   - [QuickSort_vs_MergeSort_Graph.pdf](#lab-4-quicksort_vs_mergesort_graphpdf): Comparative graph analyzing quick sort versus merge sort performance.
 
 ### Lab 5
 - **Prim's Algorithm**
   - [Prims.c](#lab-5-primsc): Implements Prim's algorithm for finding the Minimum Spanning Tree (MST) in a weighted graph.
-  - [Prims.exe](#lab-5-primsex): Executable file for Windows.
-  - [PrimsGraph.pdf](#lab-5-primsgraphpdf): Performance graph illustrating the execution time of Prim's algorithm.
   - [PrimsOutput.png](#lab-5-primsoutputpng): Sample output screenshot showing the MST.
 
 ### Lab 6
 - **Knapsack Problem**
   - [Knapsack.c](#lab-6-knapsackc): Implements the 0/1 Knapsack problem using dynamic programming.
-  - [Knapsack.exe](#lab-6-knapsackexe): Executable file for Windows.
-  - [KnapsackGraph.pdf](#lab-6-knapsackgraphpdf): Performance graph illustrating the execution time for different input sizes in the Knapsack problem.
   - [KnapsackOutput.png](#lab-6-knapsackoutputpng): Sample output screenshot of the Knapsack solution.
 
 ---
